@@ -13,7 +13,7 @@ namespace KnowledgeArsenal.Controllers
 
         public ActionResult Login()
         {
-            return Content("From Login");
+            return View();
         }
 
     }

@@ -13,7 +13,7 @@ namespace KnowledgeArsenal.Controllers
 
         public ActionResult Index()
         {
-            return Content("Salam");
+            return View();
         }
 
     }
